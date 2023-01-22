@@ -16,10 +16,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DerEingerostete&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=dereingerostete&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc)
-
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13477803) 
+
+---
+[![](https://komarev.com/ghpvc/?username=dereingerostete&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
