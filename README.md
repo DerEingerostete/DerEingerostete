@@ -20,6 +20,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=DerEingerostete&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DerEingerostete&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=dereingerostete&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
