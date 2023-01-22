@@ -1,7 +1,7 @@
 # 💫 About Me:
- - 🔭 I’m currently working on KilltZeo
+ - 🔭 I’m currently working on some small projects
  - 🌱 I’m currently learning HTML, Spring Boot
- - 💬 Ask me about Java, SQL
+ - 💬 Ask me about Java, SQL, Spigot & BungeeCord
  - 😄 Pronouns: He / Him
  - 📫 Contact me via email contact@dereingerostete.dev
  - ⚡ Fun fact: I started programming by copying Spigot plugins from YouTube tutorials
