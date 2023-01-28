@@ -21,5 +21,6 @@
 
 ---
 [![Views](https://komarev.com/ghpvc/?username=dereingerostete&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc)
+<br/>*Views counted since Jan 22, 2023*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) with some edits by myself -->
