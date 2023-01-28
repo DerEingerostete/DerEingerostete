@@ -17,7 +17,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DerEingerostete&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/13477803) [![TryHackMe](https://img.shields.io/badge/-TryHackMe-c11111?logo=tryhackme&style=for-the-badge&logoColor=white)](https://tryhackme.com/p/DerEingerostete) 
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-c11111?logo=tryhackme&style=for-the-badge&logoColor=white)](https://tryhackme.com/p/DerEingerostete)  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/13477803)
 
 ---
 [![Views](https://komarev.com/ghpvc/?username=dereingerostete&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc)
