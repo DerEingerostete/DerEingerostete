@@ -1,6 +1,6 @@
 # 💫 About Me:
  - 🔭 I’m currently working on some small projects
- - 🌱 I’m currently learning Neural Networks
+ - 🌱 I’m currently learning Vue.js
  - 💬 Ask me about Java, SQL, Spigot & BungeeCord
  - 😄 Pronouns: He / Him
  - 📫 Contact me via email contact@dereingerostete.dev
