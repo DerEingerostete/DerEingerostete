@@ -1,8 +1,7 @@
 # 💫 About Me:
  - 🔭 I’m currently working on some small projects
- - 🌱 I’m currently learning Astro
- - 💬 Ask me about Java, SQL, Spigot & BungeeCord
- - 😄 Pronouns: He / Him
+ - 💬 Ask me about Java, Spigot & BungeeCord
+ - 😄 Pronouns: He / Him or any
  - 📫 Contact me via email contact@dereingerostete.dev
  - ⚡ Fun fact: I started programming by copying Spigot plugins from YouTube tutorials
 
